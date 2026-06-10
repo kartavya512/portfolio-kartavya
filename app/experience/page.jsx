@@ -7,7 +7,7 @@ import Footer from "../components/Footer";
 const experiences = [
   {
     id: 1,
-    role: "Software Engineer",
+    role: "Senior Software Engineer",
     company: "Capgemini",
     location: "Bangalore, India",
     duration: "September 2024 – Present",
